@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "c8cad2a1-2b09-4716-9cb7-18b5e8830101",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "lord_anim_bomb_frame18": {
+      "ver": "1.0.4",
+      "uuid": "eff2369f-3c48-4dd0-b2ce-3fa1ed74d911",
+      "rawTextureUuid": "c8cad2a1-2b09-4716-9cb7-18b5e8830101",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 10,
+      "offsetY": 55,
+      "trimX": 49,
+      "trimY": 30,
+      "width": 303,
+      "height": 243,
+      "rawWidth": 381,
+      "rawHeight": 413,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

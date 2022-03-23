@@ -1,0 +1,1 @@
+node version_generator.js -v 1.2.0010 -u http://gengxin.17kuaileqp.com/jnww-assets/ -s ../build/jsb-link/ -d assets/

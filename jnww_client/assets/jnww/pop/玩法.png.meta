@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "83b00fb7-ed16-4fd5-be37-b9c311f636ba",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "玩法": {
+      "ver": "1.0.4",
+      "uuid": "8e95a692-1fdc-4b20-849d-d02d457d4791",
+      "rawTextureUuid": "83b00fb7-ed16-4fd5-be37-b9c311f636ba",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3,
+      "offsetY": -3.5,
+      "trimX": 11,
+      "trimY": 25,
+      "width": 830,
+      "height": 661,
+      "rawWidth": 846,
+      "rawHeight": 704,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
